@@ -1,9 +1,13 @@
 # My Github page or somin idk
 
 I make minecraft plugins with java ig ? Learning rust too.
+
 Avid jetbrains boi but switching to nvim (is happening trust)
+
 Catppuccin mocha enthusiast 
+
 Also play dnd maybe idk scheduling is weird
+
 Currently ~~dying~~ working on a DnD VTT plugin for minecraft 
 <!--
 Here are some ideas to get you started:
