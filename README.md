@@ -8,7 +8,7 @@ Catppuccin mocha enthusiast
 
 Also play dnd maybe idk scheduling is weird
 
-Currently ~~dying~~ working on a DnD VTT plugin for minecraft 
+Currently ~~dying~~ working on plugins for minecraft 
 <!--
 Here are some ideas to get you started:
 
