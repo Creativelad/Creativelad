@@ -11,7 +11,7 @@ Also play dnd maybe idk scheduling is weird
 Currently ~~dying~~ working on plugins for minecraft 
 Learning rust too.
 
-I dualboot windows and arch btw
+I dual boot windows and arch btw
 <!--
 Here are some ideas to get you started:
 
